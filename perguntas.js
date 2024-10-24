@@ -1,23 +1,23 @@
 criaCartao(
-    'Felicidades',
-    'O que precisa para ser feliz?',
-    ' Fazer o que gosta!!!'
+    'Sócrates',
+    'Qual a frase mais famosa de Sócrates?',
+    ' A frase mais famosa de Sócrates é: "Só sei que nada sei"'
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'Pitágoras',
+    'Qual a frase mais famosa de Pitágoras?',
+    'A frase mais famosa de Pitágoras é: "Tudo é número"'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'René Descartes',
+    'Qual a frase mais famosa de René Descartes?',
+    'A frase mais famosa de René Descartes é: "Penso, logo existo"'
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos'
+    'Jean-Jacques Rousseau',
+    'Qual a frase mais famosa de Jean-Jacques Rousseau?',
+    'A frase mais famosa de Jean-Jacques Rousseau é: "O homem nasce bom, mas a sociedade o corrompe"'
 )
